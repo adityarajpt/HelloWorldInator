@@ -5,18 +5,20 @@ Repository based on a [reddit comment](https://www.reddit.com/r/ProgrammerHumor/
 Return a callable that prints 'Hello, world!' when called in as many languages as possible
 
 ## Implemented Languages
+- Assembly
 - Brainfuck
-- C++
 - C#
+- C++
 - F#
 - Golang
+- Haskell
 - JavaScript
+- Lisp
 - Lua
 - PHP
 - Python
 - Ruby
 - Rust
-- Assembly
 
 ## Contributing
 To add a new language, make a PR against the main branch. In your PR, you must:
