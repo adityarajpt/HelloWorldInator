@@ -11,9 +11,3 @@ int uncursableHello() {
 int HelloWorldInator(){
     return &uncursableHello;
 }
-
-int main()
-{
-    int uncursableHelloF = HelloWorldInator();
-    return 0;
-}
