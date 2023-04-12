@@ -10,6 +10,7 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 - C#
 - C++
 - F#
+- GDscript
 - Golang
 - Haskell
 - JavaScript
