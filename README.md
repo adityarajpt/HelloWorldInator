@@ -23,6 +23,7 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 - Julia
 - Lisp
 - Lua
+- Noulith
 - OCaml
 - PHP
 - Python
