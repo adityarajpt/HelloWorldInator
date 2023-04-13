@@ -12,6 +12,8 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 - C++
 - dc
 - F#
+- Fortran77
+- Modern Fortran
 - GDscript
 - Golang
 - Haskell
