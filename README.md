@@ -7,12 +7,15 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 ## Implemented Languages
 - Assembly
 - Brainfuck
+- C
 - C#
 - C++
+- dc
 - F#
 - Golang
 - Haskell
 - JavaScript
+- Julia
 - Lisp
 - Lua
 - PHP
