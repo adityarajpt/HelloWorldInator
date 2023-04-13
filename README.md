@@ -9,6 +9,7 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 - Brainfuck
 - C (standard)
 - C (with GCC extensions)
+- C (with clang extensions)
 - C#
 - C++
 - dc
