@@ -18,10 +18,12 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 - Julia
 - Lisp
 - Lua
+- OCaml
 - PHP
 - Python
 - Ruby
 - Rust
+- Wenyan
 
 ## Contributing
 To add a new language, make a PR against the main branch. In your PR, you must:
