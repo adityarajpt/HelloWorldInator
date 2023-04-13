@@ -6,10 +6,11 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 
 ## Implemented Languages
 - Assembly
+- B
 - Brainfuck
 - C (standard)
-- C (with GCC extensions)
 - C (with clang extensions)
+- C (with GCC extensions)
 - C#
 - C++
 - dc
