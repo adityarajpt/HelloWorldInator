@@ -7,11 +7,13 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 ## Implemented Languages
 - Assembly
 - Brainfuck
-- C
+- C (standard)
+- C (with GCC extensions)
 - C#
 - C++
 - dc
 - F#
+- Forth
 - Fortran77
 - Modern Fortran
 - GDscript
@@ -21,6 +23,7 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 - Julia
 - Lisp
 - Lua
+- Noulith
 - OCaml
 - PHP
 - Python
