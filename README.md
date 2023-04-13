@@ -19,6 +19,7 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 - GDscript
 - Golang
 - Haskell
+- Java
 - JavaScript
 - Julia
 - Lisp
