@@ -1,6 +1,6 @@
 public class HelloWorldInator {
-    VoidFunction helloWorld;
-    public void HelloWorldInator() {
+    private final VoidFunction helloWorld;
+    public HelloWorldInator() {
         helloWorld = () -> {
             System.out.println("Hello, World!");
         };
