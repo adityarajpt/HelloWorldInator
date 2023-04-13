@@ -30,6 +30,7 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 - Ruby
 - Rust
 - Wenyan
+- Zig
 
 ## Contributing
 To add a new language, make a PR against the main branch. In your PR, you must:
