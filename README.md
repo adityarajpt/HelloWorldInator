@@ -25,6 +25,7 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 - JavaScript
 - Julia
 - Lisp
+- LLVM IR
 - Lua
 - Nim
 - Noulith
