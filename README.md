@@ -13,6 +13,7 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 - C (with GCC extensions)
 - C#
 - C++
+- Dart
 - dc
 - F#
 - Forth
