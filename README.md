@@ -17,6 +17,7 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 - F#
 - Forth
 - Fortran77
+- Minecraft JE
 - Modern Fortran
 - GDscript
 - Golang
