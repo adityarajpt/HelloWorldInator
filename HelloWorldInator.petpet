@@ -1,0 +1,2 @@
+global fn helloWorldInator()
+    fn() print("Hello, world!")
