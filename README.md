@@ -6,20 +6,43 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 
 ## Implemented Languages
 - Assembly
+- B
 - Brainfuck
+- C (standard)
+- C (with clang extensions)
+- C (with GCC extensions)
 - C#
 - C++
+- Dart
+- dc
+- Elixir
 - F#
+- Forth
+- Fortran77
+- Minecraft JE
+- Modern Fortran
+- GDscript
 - Golang
 - Haskell
+- Java
 - JavaScript
+- Julia
 - Lisp
+- LLVM IR
 - Lua
+- Nim
+- Noulith
+- OCaml
+- Petpet
 - PHP
 - Python
 - Ruby
 - Rust
-- Elixir
+- Wenyan
+- Kotlin
+- Scala
+- Shell
+- Zig
 
 ## Contributing
 To add a new language, make a PR against the main branch. In your PR, you must:
