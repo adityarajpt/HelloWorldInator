@@ -42,6 +42,7 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 - Kotlin
 - Scala
 - Shell
+- Wren
 - Zig
 
 ## Contributing
