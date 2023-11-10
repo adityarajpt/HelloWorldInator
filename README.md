@@ -38,6 +38,7 @@ Return a callable that prints 'Hello, world!' when called in as many languages a
 - Python
 - Ruby
 - Rust
+- TypeScript
 - Wenyan
 - Kotlin
 - Scala
